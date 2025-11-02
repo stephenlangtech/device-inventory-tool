@@ -26,7 +26,7 @@ Your PowerShell Script will gather and display:
 5.) Choose your export format: `csv` or `txt`.   
 6.) View the progress and system stats before/after the tool is used.
 
-🎒<ins>***DeviceInventory Tool Script***<ins>🎒
+🎒<ins>***Device Inventory Tool Script***<ins>🎒
 
 ```bash
 # Device Inventory Tool
